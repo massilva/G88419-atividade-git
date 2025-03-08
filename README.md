@@ -7,3 +7,7 @@ Atividade para realizar o controle de versão de arquivos em equipe.
 ### Windows
 
 Para instalar no windows siga o procedimento [Procedimento de Instalação no Windows](./docs/procedimento-windows.md).
+
+## GITLAB
+
+![Gitlab](gitlab_logo.png)
